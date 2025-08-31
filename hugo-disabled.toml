@@ -2,8 +2,8 @@ baseURL = "https://example.docsy.dev/"
 title = "Goldydocs"
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
+contentDir = "content/pt-br"
+defaultContentLanguage = "pt-br"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
