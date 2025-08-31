@@ -4,9 +4,20 @@ title: Goldydocs
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
+
 contentDir: content/en
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
+languages:
+  en:
+    languageName: English
+    weight: 1
+    contentDir: content/en
+  pt-br:
+    languageName: Português (Brasil)
+    weight: 2
+    contentDir: content/pt-br
+
 # Useful when translating.
 enableMissingTranslationPlaceholders: true
 
