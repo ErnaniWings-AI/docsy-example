@@ -15,12 +15,14 @@ title: Goldydocs
 
 
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
+O Serpro vem ao longo do tempo acumulando demandas de desenvolvimento em detrimento da aceleração do processo de transformação digital no Governo Federal e dos normativos legais que impactam os clientes. Por outro lado, a capacidade produtiva vem sendo reduzida, tanto pela evasão natural de empregados quanto por consequência dos Planos de Demissão Voluntária - PDVs realizados pela empresa.
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+Considerando esse aumento da demanda pelo serviço de desenvolvimento, o Desenvolvimento Externo da codificação de software é um dos mecanismos que a empresa lançou mão visando aumentar a capacidade de entrega de softwares.
+
+A expectativa é que o Desenvolvimento Externo permita a inclusão de novas soluções de software a serem sustentadas, o que resultará em um aumento da receita proveniente dos serviços de sustentação ao longo do tempo, somando as entregas realizadas pelo Serpro e pelas subcontratadas.
+
+<!---(Sadly, Goldydocs isn't a real project, but you can use this site as an example
+to create your own real websites with ink [Docsy](https://docsy.dev))--->
 {{% /blocks/lead %}}
 
 
