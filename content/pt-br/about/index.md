@@ -1,22 +1,19 @@
 ---
-title: About Goldydocs
+title: Sobre Desenvolvimento Externo
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="About Goldydocs" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="Sobre o Desenvolvimento externo" image_anchor="bottom" height="auto" %}}
 
-A sample site using the Docsy Hugo theme.
+Um site dedicado ao desenvolvimento de software externo do SERPRO.
 {.mt-5}
 
 {{% /blocks/cover %}}
 
 {{% blocks/lead %}}
 
-Goldydocs is a sample site using the [Docsy](https://github.com/google/docsy)
-Hugo theme that shows what it can do and provides you with a template site
-structure. It’s designed for you to clone and edit as much as you like. See the
-different sections of the documentation and site for more ideas.
+O DEX- Desenvolvimento Externo contém a sistemática de subcontratação de implementação e testes de software no fluxo de entrega de soluções digitais. É mantido pela SUPAN. 
 
 {{% /blocks/lead %}}
 
