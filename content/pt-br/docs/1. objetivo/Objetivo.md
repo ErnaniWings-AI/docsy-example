@@ -2,7 +2,8 @@
 title: "1. Objetivo"
 date: 2021-05-03T11:02:05+06:00
 lastmod: 2025-08-11T15:54:26+06:00
-weight: 110
+# weight: 2
+menu: {main: {weight: 10}}
 draft: false
 publishDate: 2023-01-01
 # search related keywords
